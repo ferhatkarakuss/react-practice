@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.8011ba5b.css",
+    "main.js": "/react-practice/static/js/main.3fab5e4b.js",
+    "static/media/laptop.jpg": "/react-practice/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "index.html": "/react-practice/index.html",
+    "main.8011ba5b.css.map": "/react-practice/static/css/main.8011ba5b.css.map",
+    "main.3fab5e4b.js.map": "/react-practice/static/js/main.3fab5e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8011ba5b.css",
+    "static/js/main.3fab5e4b.js"
+  ]
+}
